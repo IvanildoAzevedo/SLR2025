@@ -5,7 +5,7 @@ This repository contains data collected and analyzed from a Systematic Literatur
 The artifacts are associated with the submitted paper **Replication of Software Engineering Studies: A Systematic Analysis of Threats to Validity (TTVs)**.
 
 ## Research Material
-- [Inclusion and Exclusion Criteria]()
+- [Inclusion and Exclusion Criteria](/data/criteria.md)
 - Pre-print _(link will be provided upon acceptance of the paper)_
 
 
