@@ -1,3 +1,15 @@
+# Search String
+
+| Search string |
+|:---------------:|
+|(reproducibility OR reproduction OR reproductions OR reproduce OR reproduced OR reproducing OR replicability OR replication OR replications OR replicate OR replicated OR replicating OR repeatability OR repetition OR repetitions OR repeat OR repeated OR repeating)|
+|AND|
+|(survey OR surveys OR experimental OR experiment OR experiments OR “quasi-experiment” OR “case study” OR “case studies” OR ethnography OR “ethnographic study” OR “ethnographic studies” OR “action research”)|
+|AND|
+|(“software engineering”)|
+
+<br><br>
+
 # Inclusion and Exclusion Criteria.
 
 To be selected for this research, the article must meet all the following Inclusion Criteria:
