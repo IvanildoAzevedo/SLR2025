@@ -12,7 +12,7 @@ The artifacts are associated with the submitted paper **Replication of Software 
 
 ## Data
 
-
+- [Download](data/data.xlsx)
 
 ## Scripts
 
