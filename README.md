@@ -20,4 +20,5 @@ The artifacts are associated with the submitted paper **Replication of Software 
 
 ## License
 
-- The research data and artifacts are licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+- The **R scripts** in this repository are licensed under the [MIT License](LICENSE-MIT).
+- The **research data and artifacts** are licensed under the [CC BY 4.0 License](LICENSE).
