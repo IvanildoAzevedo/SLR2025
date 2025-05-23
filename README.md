@@ -17,3 +17,7 @@ The artifacts are associated with the submitted paper **Replication of Software 
 ## Scripts
 
 - [Scripts](data/scripts.md)
+
+## License
+
+- The research data and artifacts are licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
