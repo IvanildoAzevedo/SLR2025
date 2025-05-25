@@ -8,7 +8,7 @@ The artifacts are associated with the submitted paper **Replication of Software 
 - [Search String and Inclusion and Exclusion Criteria](/data/criteria.md)
 - [Tables](data/tables.md)
 - [Threats to Validity](/data/validity.md)
-- Pre-print _(link will be provided upon acceptance of the paper)
+- _Pre-print_ (link will be provided upon acceptance of the paper)
 
 ## Data
 
