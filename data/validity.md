@@ -17,6 +17,8 @@ Another internal threat arises from how studies describe TTVs inconsistently. Fo
 
 A relevant threat to the external validity of the study is the low methodological diversity. Most studies adopted Experimental Methods and Surveys making the conclusions potentially inapplicable to other methods like Case Studies, Action Research, and Ethnography. This limitation can affect the understanding about different methods. To mitigate this threat, we categorized the studies according to the research method used, enabling a differentiated analysis of the findings based on the adopted approach. This prevents improper extrapolation of conclusions to underrepresented methods. This limitation suggests the need for future investigations using diverse methods to validate and expand the applicability of the results.
 
+To limit the search results to the Software Engineering field, we included the term "Software Engineering" in our search string using a conditional AND. This approach restricted the search to papers explicitly containing this term. While this practice may be common in search strategies focused on Software Engineering literature, it introduces a validity threat since relevant papers in the field may not explicitly mention "Software Engineering" in their text. Future research should consider expanding the search string with additional relevant keywords to achieve broader and more comprehensive coverage of studies published within the Software Engineering domain.
+
 
 ## Construct
 
@@ -25,7 +27,6 @@ A threat to construct validity in this review is the lack of clarity in defining
 To mitigate this threat, for categorizing replicated studies we followed the guidelines proposed by Baldassarre et al. [^7]. For categorizing research methods, we followed Easterbrook et al. [^8]. These strategies reduce subjectivity in the analysis and enhance the reliability of our findings.
 
 Another potential threat arises from the subjective nature of data categorization by researchers. Human judgment in classifying study characteristics can introduce bias or inconsistencies, potentially distorting the constructs' intended meaning. Systematic misclassification could also affect internal validity and weaken the strength of the conclusions. To minimize this risk, we employed careful calibration procedures and clear coding guidelines. Specifically, we relied on Baldassarre et al. [^7] for replication type classification and Easterbrook et al. [^8] for empirical method categorization. Furthermore, disagreements were resolved through discussion to ensure consistent interpretation across reviewers.
-
 
 
 ## Conclusion
