@@ -47,14 +47,14 @@ p <- ggplot(df_long, aes(x = ReplicationType, y = Method, fill = Count)) +
   geom_text(aes(label = Count), size = 2.5) +
   facet_wrap(~TTV) +
   scale_fill_gradient(
-    low = "white", high = "#666666",
+    low = "white", high = "blue",
     guide = guide_colorbar(barheight = 0.4)  # ajusta a altura da barra
   )+
   theme_minimal() +
   theme(
     legend.position = "top",
-    legend.spacing.y = unit(0.1, "cm"),  # reduz o espaço vertical da legenda
-    legend.margin = margin(b = -18),      # ajusta a margem inferior da legenda
+    legend.spacing.y = unit(0.1, "cm"),
+    legend.margin = margin(b = -18),
     plot.margin = margin(t = 1, r = 4, b = 5, l = 1),
     axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1, size = 8),
     axis.text.y = element_text(size = 8.5, color = "black"),
@@ -67,4 +67,5 @@ p <- ggplot(df_long, aes(x = ReplicationType, y = Method, fill = Count)) +
   )
 
 ggsave("Fig5.png", plot = p, width = 4, height = 3.5)
+ggsave("Fig5.pdf", plot = p, width = 4, height = 3.5)
 getwd()
