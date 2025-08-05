@@ -76,10 +76,12 @@ No specific hardware requirements are needed to execute the scripts.
 3. Download an R script from the [scripts folder](data/scripts/scripts.md).
 4. Open an R script.
   - Open only one script at a time.
-6. Run the script using:
+5. Run the script using:
   - **Mac**: `Cmd + Shift + Enter`
   - **Windows/Linux**: `Ctrl + Shift + Enter`
-5. The output (e.g., plots) will be saved in the same folder as the script, using the same filename.
+6. If prompted, allow R to install the required packages (e.g., ggplot2, dplyr, tidyr).
+R may ask for your permission to install missing packages the first time you run the script.
+7. The output (e.g., plots) will be saved in the same folder as the script, using the same filename.
 
 > 💡 Each script generates one figures used in the [paper](Paper.pdf).
 
